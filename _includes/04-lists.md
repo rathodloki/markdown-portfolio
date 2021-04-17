@@ -1,0 +1,3 @@
+- 1 rich dad poor dad
+- 2 kubernetes all basics
+- 3 aws certification access all
